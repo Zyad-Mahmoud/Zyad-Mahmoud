@@ -59,6 +59,8 @@ Currently I’m improving my knowledge in **Data Structures & Algorithms**, **Ba
 - **System Design**
 - **Clean Architecture**
 - Performance Optimization in .NET
+- Unit Testing
+- Design Patterns
 
 ---
 

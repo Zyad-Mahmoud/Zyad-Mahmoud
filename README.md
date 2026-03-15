@@ -66,7 +66,7 @@ Currently I’m improving my knowledge in **Data Structures & Algorithms**, **Ba
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/zyad-mahmoud-924733367
+- 💼 LinkedIn: www.linkedin.com/in/zyad-mahmoud-123
 
 - 🐙 GitHub: https://github.com/Zyad-Mahmoud/Zyad-Mahmoud/
 

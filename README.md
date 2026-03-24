@@ -12,7 +12,6 @@ I'm a passionate **.NET Developer** who enjoys building scalable backend systems
 
 I focus on writing clean, maintainable code and continuously improving my skills in **software engineering, problem solving, and system design**.
 
-Currently I’m improving my knowledge in **Data Structures & Algorithms**, **Backend Development**, and **Modern .NET Technologies**.
 
 ---
 
@@ -22,7 +21,7 @@ Currently I’m improving my knowledge in **Data Structures & Algorithms**, **Ba
 - 📚 Constantly learning **DSA & Software Architecture**  
 - 🔧 Building Web Applications using **ASP.NET Core**  
 - 🧠 Strong focus on **OOP and Clean Code**  
-- 🌱 Currently improving **Problem Solving & System Design**
+
 
 ---
 
@@ -40,6 +39,7 @@ Currently I’m improving my knowledge in **Data Structures & Algorithms**, **Ba
 - MVC Architecture
 - Entity Framework Core
 - LINQ
+- SQL Server
 
 ### 🧠 Computer Science
 - Data Structures & Algorithms
@@ -53,14 +53,7 @@ Currently I’m improving my knowledge in **Data Structures & Algorithms**, **Ba
 
 ---
 
-## 📚 Currently Learning
 
-- Advanced **ASP.NET Core**
-- **System Design**
-- **Clean Architecture**
-- Performance Optimization in .NET
-- Unit Testing
-- Design Patterns
 
 ---
 
